@@ -1,5 +1,5 @@
 public class march{
 public static void main(String arg[]){
-System.out.println("this is new whatsapp");
+System.out.println("this is whatsapp");
 }
 }
